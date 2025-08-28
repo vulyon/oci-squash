@@ -20,3 +20,18 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.cursor/
+
+
+testtar/
+
+demo/
+
+__pycache__/
+
+*.tar
+
+dist/
+build/
+*.egg-info/
